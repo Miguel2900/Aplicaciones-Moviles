@@ -1,0 +1,16 @@
+Button;obj\Debug\120\res\layout\about.xml
+Button;obj\Debug\120\res\layout\additem.xml
+Button;obj\Debug\120\res\layout\main.xml
+EditText;obj\Debug\120\res\layout\additem.xml
+FrameLayout;obj\Debug\120\res\layout\about.xml
+LinearLayout;obj\Debug\120\res\layout\about.xml
+LinearLayout;obj\Debug\120\res\layout\additem.xml
+LinearLayout;obj\Debug\120\res\layout\details.xml
+LinearLayout;obj\Debug\120\res\layout\items.xml
+LinearLayout;obj\Debug\120\res\layout\main.xml
+ListView;obj\Debug\120\res\layout\items.xml
+resources;obj\Debug\120\res\values\strings.xml
+string;obj\Debug\120\res\values\strings.xml
+TextView;obj\Debug\120\res\layout\about.xml
+TextView;obj\Debug\120\res\layout\additem.xml
+TextView;obj\Debug\120\res\layout\details.xml

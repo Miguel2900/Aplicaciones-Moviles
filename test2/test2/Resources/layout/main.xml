@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="Ingrese los metros"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:id="@+id/textView1" />
+    <EditText
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/metersValue" />
+    <Button
+        android:text="Cambiar a cm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cmBtn" />
+    <TextView
+        android:text="Ingrese los grados Farenheit"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3" />
+    <EditText
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/farenheitValue" />
+    <Button
+        android:text="Cambiar a Celsius"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/celsiusBtn" />
+    <TextView
+        android:text="Ingrese la cantidad de pesos"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5" />
+    <EditText
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pesosValue" />
+    <Button
+        android:text="Camboar a dólares"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dolarsBtn" />
+
+</LinearLayout>

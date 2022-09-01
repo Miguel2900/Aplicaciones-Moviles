@@ -1,0 +1,219 @@
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\bin\Debug\GroceryList.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\bin\Debug\GroceryList.pdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\bin\Debug\com.companyname.grocerylist.apk
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\bin\Debug\com.companyname.grocerylist.aab
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\bin\Debug\com.companyname.grocerylist-Signed.aab
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\bin\Debug\com.companyname.grocerylist-Signed.apk
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\bin\Debug\com.companyname.grocerylist-Signed.apk.idsig
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\bin\Debug\GroceryList.dll.mdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\build.props
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\adb.props
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\res.flag
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\R.txt
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\R.cs.flag
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\GroceryList.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\GroceryList.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\GroceryList.pdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\bin\com.companyname.grocerylist.apk
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\bin\base.zip
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\bin\com.companyname.grocerylist.aab
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\bin\com.companyname.grocerylist.apks
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\res\layout\main.xml
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\res\values\strings.xml
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\res\drawable\icon.png
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\res\layout\about.xml
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\res\layout\additem.xml
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\res\layout\items.xml
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\res\layout\details.xml
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\uploadflags.txt
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\resolvedassemblies.hash
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\GroceryList.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\GroceryList.dll.mdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\Java.Interop.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\Mono.Android.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\Mono.Android.pdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\Mono.Security.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\Mono.Security.pdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\mscorlib.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\mscorlib.pdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.Core.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.Core.pdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.Drawing.Common.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.Drawing.Common.pdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.Net.Http.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.Net.Http.pdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.Numerics.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.Numerics.pdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.pdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.Runtime.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.Xml.dll
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\System.Xml.pdb
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\typemaps.arm64-v8a.s
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\typemaps.armeabi-v7a.s
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\typemaps.x86.s
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\typemaps.x86_64.s
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\typemaps.shared.inc
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\AndroidManifest.xml
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\__environment__.txt
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\assets\machine.config
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\bin\mono.android.jar
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\static.flag
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\buildid.txt
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\environment.arm64-v8a.s
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\environment.armeabi-v7a.s
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\environment.x86.s
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\environment.x86_64.s
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\src\crc646594e8fd75fdc90d\AboutActivity.java
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\src\crc646594e8fd75fdc90d\AddItemActivity.java
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\src\crc646594e8fd75fdc90d\DetailsActivity.java
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\src\crc646594e8fd75fdc90d\ItemsActivity.java
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\src\crc646594e8fd75fdc90d\MainActivity.java
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\bin\packaged_resources
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\src\com\companyname\grocerylist\R.java
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.arm64-v8a.s
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.s
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.x86.s
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.x86_64.s
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\typemaps.arm64-v8a.o
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\typemaps.armeabi-v7a.o
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\typemaps.x86.o
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\typemaps.x86_64.o
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\environment.arm64-v8a.o
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\environment.armeabi-v7a.o
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\environment.x86.o
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\environment.x86_64.o
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.arm64-v8a.o
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.o
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.x86.o
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.x86_64.o
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\android\bin\classes.dex
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\stamp\_CompileToDalvik.stamp
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\stamp\_ConvertCustomView.stamp
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\stamp\_ConvertResourcesCases.stamp
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Jaime Espejel\Desktop\Android\AND102 Activities and Intents\AND102-master\Exercise 1\Completed\GroceryList\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\bin\Debug\GroceryList.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\bin\Debug\GroceryList.pdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\bin\Debug\com.companyname.grocerylist.apk
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\bin\Debug\com.companyname.grocerylist.aab
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\bin\Debug\com.companyname.grocerylist-Signed.aab
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\bin\Debug\com.companyname.grocerylist-Signed.apk
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\bin\Debug\com.companyname.grocerylist-Signed.apk.idsig
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\bin\Debug\GroceryList.dll.mdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\build.props
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\adb.props
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\GroceryList.csproj.AssemblyReference.cache
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\res.flag
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\R.txt
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\R.cs.flag
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\GroceryList.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\GroceryList.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\GroceryList.pdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\bin\com.companyname.grocerylist.apk
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\bin\base.zip
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\bin\com.companyname.grocerylist.aab
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\bin\com.companyname.grocerylist.apks
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\res\layout\main.xml
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\res\values\strings.xml
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\res\drawable\icon.png
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\res\layout\about.xml
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\res\layout\additem.xml
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\res\layout\items.xml
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\res\layout\details.xml
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\uploadflags.txt
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\resolvedassemblies.hash
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\GroceryList.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\GroceryList.dll.mdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\Java.Interop.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\Mono.Android.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\Mono.Android.pdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\Mono.Security.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\Mono.Security.pdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\mscorlib.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\mscorlib.pdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.ComponentModel.Composition.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.Core.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.Core.pdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.Drawing.Common.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.Drawing.Common.pdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.Net.Http.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.Net.Http.pdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.Numerics.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.Numerics.pdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.pdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.Runtime.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.Xml.dll
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\System.Xml.pdb
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\typemaps.arm64-v8a.s
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\typemaps.armeabi-v7a.s
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\typemaps.x86.s
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\typemaps.x86_64.s
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\typemaps.shared.inc
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\AndroidManifest.xml
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\__environment__.txt
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\src\mono\MonoRuntimeProvider.java
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\assets\machine.config
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\bin\mono.android.jar
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\static.flag
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\buildid.txt
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\environment.arm64-v8a.s
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\environment.armeabi-v7a.s
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\environment.x86.s
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\environment.x86_64.s
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\src\crc646594e8fd75fdc90d\AboutActivity.java
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\src\crc646594e8fd75fdc90d\AddItemActivity.java
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\src\crc646594e8fd75fdc90d\DetailsActivity.java
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\src\crc646594e8fd75fdc90d\ItemsActivity.java
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\src\crc646594e8fd75fdc90d\MainActivity.java
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\bin\packaged_resources
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\src\com\companyname\grocerylist\R.java
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.arm64-v8a.s
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.s
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.x86.s
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.x86_64.s
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\typemaps.arm64-v8a.o
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\typemaps.armeabi-v7a.o
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\typemaps.x86.o
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\typemaps.x86_64.o
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\environment.arm64-v8a.o
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\environment.armeabi-v7a.o
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\environment.x86.o
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\environment.x86_64.o
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.arm64-v8a.o
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.o
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.x86.o
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\compressed_assemblies.x86_64.o
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\android\bin\classes.dex
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\stamp\_CompileToDalvik.stamp
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\stamp\_ConvertCustomView.stamp
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\stamp\_ConvertResourcesCases.stamp
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\OMEN\Documents\9 semestre\Aplicaciones moviles\Completed\GroceryList\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
